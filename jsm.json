@@ -111,6 +111,22 @@
             "ext": "./lib/新香蕉实时直播.json"
         },
         {
+            "key": "大白兔AV",
+            "name": "🔞大白兔AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "数组": "stui-vodlycms_list__item\"&&</li>",
+                "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27"
+            }
+        },
+        {
             "key": "top888",
             "name": "🔞top888",
             "type": 3,
